@@ -1,0 +1,19 @@
+{
+    "name": "chairsney/pay",
+    "description": "all pay",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chairsney\\Pay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chairsney",
+            "email": "chairsney@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
